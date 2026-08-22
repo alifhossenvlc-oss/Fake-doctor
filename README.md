@@ -1,2 +1,2 @@
 # Fake-doctor
-Cool stuff
+get your diagnosis. hehe
